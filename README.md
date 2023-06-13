@@ -10,3 +10,4 @@
 8. se già avviato, riavviare artisan serve
 9. `php artisan migrate`
 10. `php artisan db:seed` (se ci sono seeder)
+11. `git clean -d -n` (in caso di richiesta di pulizia albero)
